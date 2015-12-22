@@ -1,0 +1,20 @@
+{
+  "devtools_port": 9090,
+  "startup_app": {
+    "name": "drag",
+    "description": "OpenFin POC",
+    "url": "http://local:8080/",
+    "uuid": "drag",
+    "autoShow": true,
+    "frame": false
+  },
+  "runtime": {
+    "arguments": "",
+    "version": "stable"
+  },
+  "shortcut": {
+    "company": "OpenFin",
+    "description": "Openfin POC",
+    "name": "drag"
+  }
+}
