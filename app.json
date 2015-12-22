@@ -3,7 +3,7 @@
   "startup_app": {
     "name": "drag",
     "description": "OpenFin POC",
-    "url": "http://local:8080/",
+    "url": "http://datamadic.github.io/of-webkit-drag/",
     "uuid": "drag",
     "autoShow": true,
     "frame": false
